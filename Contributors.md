@@ -5394,7 +5394,7 @@ git stat
 - [Samuel Osei](https://github.com/oseiagm)
 - [Jonathan Suru](https://github.com/5uru) 🇧🇯 from All In Africa
 - [Siddharth K](https://github.com/Sid-Alpha)
-
+- [Harison Harold](https://github.com/harisonharold) 
 - [ychibani42](https://github.com/ychibani42)
 - [Terry Li](https://github.com/terryli-vt)
 - [Shanheng Chen](https://github.com/ShanhengChen) Love from China
@@ -5529,5 +5529,5 @@ Hector
 - [Sliver](https://github.com/PwwwLe)
 - [Ariful Ahsan](https://github.com/supal) 
 - [Joydip chakraborty](https://github.com/XyonX) **Hello ,Its My First Contribution!**
-- [Adarsh Maharjan](https://github.com/adarshmaharjan) **Hello, Glad It's My First Contribution To Opensource, Glad To be Part Of It**  
+- [Adarsh Maharjan](https://github.com/adarshmaharjan) **Hello, Glad It's My First Contribution To Opensource, Glad To be Part Of It**
 
